@@ -1,6 +1,6 @@
 ---
 bindings:
-    dvs_server: tcp://127.0.0.1:8100
+    dvs_server: tcp://post.ndovloket.nl:7660
     client_server: tcp://0.0.0.0:8120
     injector_server: tcp://0.0.0.0:8140
 
